@@ -1,0 +1,180 @@
+.focused-on{
+    display: flex;
+    margin: 0 50px 0 100px;
+}
+.stay-one{
+    width: 50%;
+    padding-right: 100px;
+    margin-top: 100px;
+    
+}
+.heading h1{
+    font-size: 70px;
+}
+.heading h2{
+    font-size: 60px;
+    margin-top: -50px;
+}
+.heading span{
+    color: orange;
+}
+.stay-two{
+    width: 50%;
+}
+.stay-one p{
+    font-size: 25px;
+    padding-right: 50px;
+}
+.stay-two img{
+    width: 80%;
+}
+
+.stay-one a{
+    text-decoration: none;
+    background-color: orange;
+    padding: 20px 50px;
+    border-radius: 10px;
+    display: inline-block;
+    margin: 30px 0;
+}
+/*complete my first section css*/
+
+.my-mission{
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 100px;
+   
+}
+.common-div{
+    display: flex;
+    margin: 0 100px;
+}
+.my-mission span{
+    color: orange;
+}
+.mission{
+    background-color: aqua;
+    margin-right: 10px;
+    width: 33%;
+    border-radius: 30px;
+}
+.vission{
+    background-color: aquamarine;
+    margin-right: 10px;
+    width: 33%;
+    border-radius: 30px;
+
+}
+.goals{
+    background-color: chartreuse;
+    width: 33%;
+    border-radius: 30px;
+}
+
+/*second section css complete*/
+
+.develop{
+    display: flex;
+    margin: 0 100px;
+}
+.develop-one img{
+    width: 50%;
+}
+.develop-one{
+    width: 50%;
+     
+    
+}
+.develop-two{
+    width: 50%;
+}
+.develop-two h3{
+    font-size: 40px;
+}
+.develop-two h4{
+    font-size: 50px;
+    margin-top: -20px;
+}
+.develop-two p{
+    font-size: 30px;
+    padding-right: 100px;
+}
+.develop-two a{
+    text-decoration: none;
+    background-color: orange;
+    padding: 20px 50px;
+    border-radius: 10px;
+    display: inline-block;
+    margin: 30px 0;
+}
+
+
+
+/*third section css complete*/
+
+.know-our{
+    display: flex;
+    margin: 100px 100px;
+
+}
+.global-one{
+    width: 50%;
+    text-align: middle;
+    padding-top: 30px;
+}
+.global-one h3{font-size: 30px;}
+.global-one h4{font-size: 40px;margin-top: -20px;}
+.global-one p{font-size: 30px;
+    padding-right: 100px;}
+.global-one a{
+    text-decoration: none;
+    background-color: orange;
+    padding: 20px 50px;
+    border-radius: 10px;
+    display: inline-block;
+    margin: 30px 0;
+}
+
+
+.global-two{
+    width: 50%;
+}
+.global-two img{
+    width: 50%;
+}
+
+/*fourth section css complete*/
+
+.build{
+    margin-bottom: 100px;
+}
+
+.corona img{
+    width: 100%;
+    height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.application{
+    text-align: center;
+}
+.application h1{
+    font-size: 40px;
+}
+.application h4{
+    font-size: 25px;
+}
+
+/*fifth section css complete*/
+footer{
+    width: 100%;
+    height: 200px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 70px;
+
+}
