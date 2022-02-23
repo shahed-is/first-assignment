@@ -41,7 +41,7 @@
 
 .my-mission{
     text-align: center;
-    font-size: 40px;
+    font-size: 30px;
     margin-bottom: 100px;
    
 }
@@ -53,22 +53,35 @@
     color: orange;
 }
 .mission{
-    background-color: aqua;
-    margin-right: 10px;
+    background-color: #a7e1e8;
+    margin-right: 20px;
     width: 33%;
     border-radius: 30px;
 }
+.mission img{
+    width: 20%;
+    padding-top: 30px;
+}
 .vission{
-    background-color: aquamarine;
-    margin-right: 10px;
+    background-color: rgba(127, 255, 212, 0.356);
+    margin-right: 20px;
     width: 33%;
     border-radius: 30px;
 
 }
+.vission img{
+    width: 20%;
+    padding-top: 30px;
+}
 .goals{
-    background-color: chartreuse;
+    background-color: rgba(90, 109, 72, 0.404);
     width: 33%;
     border-radius: 30px;
+}
+
+.goals img{
+    width: 20%;
+    padding-top: 30px;
 }
 
 /*second section css complete*/
